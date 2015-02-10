@@ -1,0 +1,7 @@
+WIN-W: Internet, Firefox
+WIN-E: Editor, Mousepad
+WIN-R: Run, Application Finder
+WIN-T: Terminal, Mousepad
+WIN-P: Display
+WIN-F: Filesystem, Thunar
+WIN-M: Mail, Thunderbird
